@@ -1,7 +1,8 @@
 # PythonLambda2
 
-Objective:
+Objectives:
 - Use Lambda
+- Use list
 
 
 Example output
